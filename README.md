@@ -1,6 +1,6 @@
 # RecipeSearcher
 Recipe Searcher is a Python-based project that utilizes the Edamam Recipe API to empower users to discover a vast array of recipes. Whether you're a seasoned chef or a kitchen newbie, this tool brings a world of culinary inspiration to your fingertips.
-Overview
+
 Explore the Culinary World: Recipe Searcher is a Python-based project that utilizes the Edamam Recipe API to empower users to discover a vast array of recipes. Whether you're a seasoned chef or a kitchen newbie, this tool brings a world of culinary inspiration to your fingertips.
 
 Features
